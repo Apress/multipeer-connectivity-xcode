@@ -1,9 +1,9 @@
 # Apress Source Code
 
-This repository accompanies [*Multipeer Connectivity in Xcode*](https://rd.springer.com/video/10.1007/%isbn%) by Tihomir Radev (Apress, 2021).
+This repository accompanies [*Multipeer Connectivity in Xcode*](https://rd.springer.com/video/10.1007/978-1-4842-7127-8) by Tihomir Radev (Apress, 2021).
 
 [comment]: #cover
-![Cover image](%isbn%.jpg)
+![Cover image](9781484271278.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
